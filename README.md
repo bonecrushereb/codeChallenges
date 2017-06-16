@@ -13,3 +13,4 @@ Each Branch on this Repo is a different challenge
 * tortoise racing
 * give me a diamond
 * Title Case
+* Sort with Arrow Functions
