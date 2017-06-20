@@ -16,3 +16,4 @@ Each Branch on this Repo is a different challenge
 * Sort with Arrow Functions
 * Build a pile of Cubes
 * Sum The Tree
+* IQ test
