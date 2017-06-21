@@ -17,3 +17,4 @@ Each Branch on this Repo is a different challenge
 * Build a pile of Cubes
 * Sum The Tree
 * IQ test
+* Fibonacci, Tribonacci and friends
