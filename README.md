@@ -18,3 +18,4 @@ Each Branch on this Repo is a different challenge
 * Sum The Tree
 * IQ test
 * Fibonacci, Tribonacci and friends
+* street fighter 2 - character selection
